@@ -34,4 +34,4 @@ I describe myself as an ambitious and driven person. I thrive on challenges and 
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/j4wher"><img src="https://github-readme-stats.vercel.app/api?username=j4wher&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=22272e&hide_border=true&show_icons=true" alt="j4wher's GitHub stats" /></a>
+<a href="http://www.github.com/j4wher"><img src="https://github-readme-stats.vercel.app/api?username=j4wher&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="j4wher's GitHub stats" /></a>
