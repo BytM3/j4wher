@@ -6,7 +6,6 @@ Computer engineering Student
 <div id="header" align="center">
   <img src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif" width="480"/>
 </div>
-----------------------------
 
 I describe myself as an ambitious and driven person. I thrive on challenges and constantly set goals for my self, so I have something to strive toward. I’m not comfortable with settling, and I’m always looking for an opportunity to do better and achieve greatness.
 
